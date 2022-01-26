@@ -1,5 +1,5 @@
 # Work with VirtualBox SDK
-Generally, in this case, i'll show you how to write and develope a simple application with virtualbox SKD.<br>
+Generally, in this case, i'll show you how to write and develope a simple application with virtualbox SDK.<br>
 After that, i'll work with virtualbox api's, connection with COM port from windows to ubuntu-linux and creating an interface to interact and communication with virtual machine.
 ### Virtualbox SDK
 Oracle VM VirtualBox comes with comprehensive support for third-party developers. The so-called Main API of Oracle VM VirtualBox exposes the entire feature set of the virtualization engine.<br>It is completely documented and available to anyone who wishes to control Oracle VM VirtualBox programmatically.<br>
